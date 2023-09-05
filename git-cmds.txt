@@ -1,0 +1,24 @@
+Initialize git - git init 
+add content - git add .
+commit with a msg(what have you done on the file) - git commit -m "added an image"
+push work - git push -u origin main
+    origin push to what branch(origin main, origin tume)
+    once done, the team will merge the branches to the main/master file
+    u - upstream...origin will be in master branch
+To identify which origin 
+
+//Process
+1. Manually create a repository in github site - the read me stuf should appear after you create it
+2. git init
+3. git add .
+4. git commit -m "created notes.txt"
+5. git remote add origin https://github.com/...
+6. git push -u origin master
+
+//creating a new branch
+git checkout -b andy = switched to a new branch andy
+git add .
+git commit -m "lorem ipsum"
+git push -u origin andy
+
+ctr + l - clear
