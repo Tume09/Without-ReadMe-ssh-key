@@ -10,10 +10,10 @@ To identify which origin
 //Process
 1. Manually create a repository in github site - the read me stuf should appear after you create it
 2. git init
-3. git add .
+3. git add . 
 4. git commit -m "created notes.txt"
 5. git remote add origin https://github.com/...
-6. git push -u origin master
+6. git push -u origin master/main 
 
 //creating a new branch
 git checkout -b andy = switched to a new branch andy
